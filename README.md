@@ -1,2 +1,2 @@
 # Spider_Hunter_A
-a simple game
+Your cursor hafta escape the spider.
